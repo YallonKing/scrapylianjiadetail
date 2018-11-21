@@ -2,7 +2,7 @@
 抓取链家网在售北京地区的二手房详细页面信息
 
 mysql数据库表：
-create table lianjiadetail1
+create table lianjiadetail
 (		housecode       varchar(500),
         title           varchar(500),
         loc             varchar(500),
